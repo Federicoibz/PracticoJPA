@@ -1,0 +1,1 @@
+Creo un cliente llamado Juan, le asigno un domicilio y genero un pedido con un detalle de pedido, que contiene un producto que pertenece a un rubro
